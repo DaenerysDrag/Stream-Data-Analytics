@@ -5,7 +5,7 @@ from pymongo import MongoClient, errors
 
 KAFKA_BROKER = 'localhost:9092'
 TOPIC = 'stock_topic'
-MONGO_URI = "mongodb+srv://karanmakol1:DaenerysDrag@cluster0.zjqxxsb.mongodb.net/"
+MONGO_URI = "mongodb+srv://@cluster0.zjqxxsb.mongodb.net/"
 
 # Retry MongoDB connection until available
 while True:
@@ -69,3 +69,4 @@ finally:
     consumer.close()
     mongo_client.close()
     print("✅ Kafka and MongoDB connections closed.")
+

@@ -1,0 +1,648 @@
+[{
+  "_id": {
+    "$oid": "689f0b9d31352fa7eb808952"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-14 15:29:00",
+  "price": 3022.5
+},
+{
+  "_id": {
+    "$oid": "689f0d0c6aa1613a1c0b24cc"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-14 15:29:00",
+  "price": 3022.5
+},
+{
+  "_id": {
+    "$oid": "689f0d486aa1613a1c0b24cd"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-14 15:29:00",
+  "price": 3022.5
+},
+{
+  "_id": {
+    "$oid": "689f0d846aa1613a1c0b24ce"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-14 15:29:00",
+  "price": 3022.5
+},
+{
+  "_id": {
+    "$oid": "68a55da25db73fc8bd264860"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:01:00",
+  "price": 3049.7
+},
+{
+  "_id": {
+    "$oid": "68a55ddf5db73fc8bd264861"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:02:00",
+  "price": 3050.9
+},
+{
+  "_id": {
+    "$oid": "68a55e1b5db73fc8bd264862"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:03:00",
+  "price": 3052.3
+},
+{
+  "_id": {
+    "$oid": "68a55e575db73fc8bd264863"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:04:00",
+  "price": 3052.1
+},
+{
+  "_id": {
+    "$oid": "68a55e935db73fc8bd264864"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:05:00",
+  "price": 3053.9
+},
+{
+  "_id": {
+    "$oid": "68a55ecf5db73fc8bd264865"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:06:00",
+  "price": 3055.4
+},
+{
+  "_id": {
+    "$oid": "68a55f0b5db73fc8bd264866"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:07:00",
+  "price": 3053.5
+},
+{
+  "_id": {
+    "$oid": "68a55f475db73fc8bd264867"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:08:00",
+  "price": 3054
+},
+{
+  "_id": {
+    "$oid": "68a55f845db73fc8bd264868"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:09:00",
+  "price": 3054.4
+},
+{
+  "_id": {
+    "$oid": "68a55fc05db73fc8bd264869"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:10:00",
+  "price": 3054.4
+},
+{
+  "_id": {
+    "$oid": "68a55ffc5db73fc8bd26486a"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:11:00",
+  "price": 3054
+},
+{
+  "_id": {
+    "$oid": "68a560385db73fc8bd26486b"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:12:00",
+  "price": 3056.9
+},
+{
+  "_id": {
+    "$oid": "68a560745db73fc8bd26486c"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:13:00",
+  "price": 3059
+},
+{
+  "_id": {
+    "$oid": "68a560b15db73fc8bd26486d"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:14:00",
+  "price": 3058.5
+},
+{
+  "_id": {
+    "$oid": "68a560ed5db73fc8bd26486e"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:15:00",
+  "price": 3060.4
+},
+{
+  "_id": {
+    "$oid": "68a561295db73fc8bd26486f"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:16:00",
+  "price": 3057.9
+},
+{
+  "_id": {
+    "$oid": "68a561655db73fc8bd264870"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:17:00",
+  "price": 3058.6
+},
+{
+  "_id": {
+    "$oid": "68a561a25db73fc8bd264871"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:18:00",
+  "price": 3059.5
+},
+{
+  "_id": {
+    "$oid": "68a567015db73fc8bd264872"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:41:00",
+  "price": 3073.8
+},
+{
+  "_id": {
+    "$oid": "68a5673b5db73fc8bd264874"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:42:00",
+  "price": 3072.7
+},
+{
+  "_id": {
+    "$oid": "68a567785db73fc8bd264875"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:43:00",
+  "price": 3074
+},
+{
+  "_id": {
+    "$oid": "68a567b45db73fc8bd264876"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:44:00",
+  "price": 3074.6
+},
+{
+  "_id": {
+    "$oid": "68a567f05db73fc8bd264877"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:45:00",
+  "price": 3075
+},
+{
+  "_id": {
+    "$oid": "68a5682c5db73fc8bd264878"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:46:00",
+  "price": 3074.9
+},
+{
+  "_id": {
+    "$oid": "68a568685db73fc8bd264879"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:47:00",
+  "price": 3076
+},
+{
+  "_id": {
+    "$oid": "68a568a45db73fc8bd26487a"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:48:00",
+  "price": 3075
+},
+{
+  "_id": {
+    "$oid": "68a568e15db73fc8bd26487b"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:49:00",
+  "price": 3074
+},
+{
+  "_id": {
+    "$oid": "68a5691d5db73fc8bd26487c"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:50:00",
+  "price": 3074
+},
+{
+  "_id": {
+    "$oid": "68a569595db73fc8bd26487d"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:51:00",
+  "price": 3074.8
+},
+{
+  "_id": {
+    "$oid": "68a569955db73fc8bd26487e"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:52:00",
+  "price": 3074.4
+},
+{
+  "_id": {
+    "$oid": "68a569d15db73fc8bd26487f"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:53:00",
+  "price": 3079.3
+},
+{
+  "_id": {
+    "$oid": "68a56a0d5db73fc8bd264880"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:54:00",
+  "price": 3080.5
+},
+{
+  "_id": {
+    "$oid": "68a56a4a5db73fc8bd264881"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:55:00",
+  "price": 3080
+},
+{
+  "_id": {
+    "$oid": "68a56a865db73fc8bd264882"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:56:00",
+  "price": 3079.9
+},
+{
+  "_id": {
+    "$oid": "68a56ac25db73fc8bd264883"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:57:00",
+  "price": 3081
+},
+{
+  "_id": {
+    "$oid": "68a56afe5db73fc8bd264884"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:58:00",
+  "price": 3082
+},
+{
+  "_id": {
+    "$oid": "68a56b3a5db73fc8bd264885"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 11:59:00",
+  "price": 3084
+},
+{
+  "_id": {
+    "$oid": "68a56b765db73fc8bd264886"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:00:00",
+  "price": 3082
+},
+{
+  "_id": {
+    "$oid": "68a56bb35db73fc8bd264887"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:01:00",
+  "price": 3084.7
+},
+{
+  "_id": {
+    "$oid": "68a56bef5db73fc8bd264888"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:02:00",
+  "price": 3084
+},
+{
+  "_id": {
+    "$oid": "68a56c2b5db73fc8bd264889"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:03:00",
+  "price": 3084.9
+},
+{
+  "_id": {
+    "$oid": "68a56c675db73fc8bd26488a"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:04:00",
+  "price": 3087
+},
+{
+  "_id": {
+    "$oid": "68a56ca35db73fc8bd26488b"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:05:00",
+  "price": 3085.6
+},
+{
+  "_id": {
+    "$oid": "68a56cdf5db73fc8bd26488c"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:06:00",
+  "price": 3086.2
+},
+{
+  "_id": {
+    "$oid": "68a56d1b5db73fc8bd26488d"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:07:00",
+  "price": 3086
+},
+{
+  "_id": {
+    "$oid": "68a56d585db73fc8bd26488e"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:08:00",
+  "price": 3084.9
+},
+{
+  "_id": {
+    "$oid": "68a56d945db73fc8bd26488f"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:09:00",
+  "price": 3081.4
+},
+{
+  "_id": {
+    "$oid": "68a56dd05db73fc8bd264890"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:10:00",
+  "price": 3085.1
+},
+{
+  "_id": {
+    "$oid": "68a56e0c5db73fc8bd264891"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:11:00",
+  "price": 3088.5
+},
+{
+  "_id": {
+    "$oid": "68a56e485db73fc8bd264892"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:12:00",
+  "price": 3086.1
+},
+{
+  "_id": {
+    "$oid": "68a56e845db73fc8bd264893"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:13:00",
+  "price": 3086.3
+},
+{
+  "_id": {
+    "$oid": "68a56ec15db73fc8bd264894"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:14:00",
+  "price": 3085
+},
+{
+  "_id": {
+    "$oid": "68a56efd5db73fc8bd264895"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:15:00",
+  "price": 3086
+},
+{
+  "_id": {
+    "$oid": "68a56f395db73fc8bd264896"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:16:00",
+  "price": 3083.4
+},
+{
+  "_id": {
+    "$oid": "68a56f765db73fc8bd264897"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:17:00",
+  "price": 3083.2
+},
+{
+  "_id": {
+    "$oid": "68a56fb25db73fc8bd264898"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:18:00",
+  "price": 3083
+},
+{
+  "_id": {
+    "$oid": "68a56fee5db73fc8bd264899"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:19:00",
+  "price": 3083.1
+},
+{
+  "_id": {
+    "$oid": "68a5702b5db73fc8bd26489a"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:20:00",
+  "price": 3081
+},
+{
+  "_id": {
+    "$oid": "68a570675db73fc8bd26489b"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:21:00",
+  "price": 3082.3
+},
+{
+  "_id": {
+    "$oid": "68a570a35db73fc8bd26489c"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:22:00",
+  "price": 3082.8
+},
+{
+  "_id": {
+    "$oid": "68a570df5db73fc8bd26489d"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:23:00",
+  "price": 3081.1
+},
+{
+  "_id": {
+    "$oid": "68a5711b5db73fc8bd26489e"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:24:00",
+  "price": 3079.8
+},
+{
+  "_id": {
+    "$oid": "68a571585db73fc8bd26489f"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:25:00",
+  "price": 3079.1
+},
+{
+  "_id": {
+    "$oid": "68a571945db73fc8bd2648a0"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:26:00",
+  "price": 3077.7
+},
+{
+  "_id": {
+    "$oid": "68a571d05db73fc8bd2648a1"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:27:00",
+  "price": 3080.7
+},
+{
+  "_id": {
+    "$oid": "68a5720c5db73fc8bd2648a2"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:28:00",
+  "price": 3079.8
+},
+{
+  "_id": {
+    "$oid": "68a572485db73fc8bd2648a3"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:29:00",
+  "price": 3080
+},
+{
+  "_id": {
+    "$oid": "68a572845db73fc8bd2648a4"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:30:00",
+  "price": 3080.8
+},
+{
+  "_id": {
+    "$oid": "68a572c15db73fc8bd2648a5"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:31:00",
+  "price": 3081.9
+},
+{
+  "_id": {
+    "$oid": "68a572fd5db73fc8bd2648a6"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:32:00",
+  "price": 3085
+},
+{
+  "_id": {
+    "$oid": "68a573395db73fc8bd2648a7"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:33:00",
+  "price": 3083.4
+},
+{
+  "_id": {
+    "$oid": "68a573755db73fc8bd2648a8"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:34:00",
+  "price": 3081.2
+},
+{
+  "_id": {
+    "$oid": "68a573b15db73fc8bd2648a9"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:35:00",
+  "price": 3082
+},
+{
+  "_id": {
+    "$oid": "68a573ed5db73fc8bd2648aa"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:36:00",
+  "price": 3082.3
+},
+{
+  "_id": {
+    "$oid": "68a5742a5db73fc8bd2648ab"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:37:00",
+  "price": 3082.4
+},
+{
+  "_id": {
+    "$oid": "68a574665db73fc8bd2648ac"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:38:00",
+  "price": 3082.2
+},
+{
+  "_id": {
+    "$oid": "68a574a25db73fc8bd2648ad"
+  },
+  "symbol": "TCS.NS",
+  "timestamp": "2025-08-20 12:39:00",
+  "price": 3083.1
+}]

@@ -8,7 +8,7 @@ TOPIC = 'flight-topic'
 GROUP_ID = 'flight-consumer-group'
 
 # MongoDB setup
-MONGO_URI = 'mongodb+srv://karanmakol1:DaenerysDrag@cluster0.zjqxxsb.mongodb.net/'  
+MONGO_URI = 'mongodb+srv://@cluster0.zjqxxsb.mongodb.net/'  
 DB_NAME = 'flight_data'
 COLLECTION_NAME = 'flight_status'
 
@@ -47,3 +47,4 @@ finally:
     consumer.close()
     mongo_client.close()
     print("✅ Kafka consumer and MongoDB connection closed.")
+

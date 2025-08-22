@@ -12,7 +12,7 @@ TOPIC = 'stock_topic'
 MYSQL_HOST = "127.0.0.1"   # use 127.0.0.1 instead of localhost (avoids socket issues on Windows)
 MYSQL_PORT = 3306
 MYSQL_USER = "root"
-MYSQL_PASSWORD = "Mehakaran@2951"
+MYSQL_PASSWORD = "<SQL Password>"
 MYSQL_DB = "stock_db"
 
 # --- Connect to MySQL ---
@@ -134,3 +134,4 @@ finally:
     cursor.close()
     connection.close()
     print("✅ Kafka and MySQL connections closed.")
+

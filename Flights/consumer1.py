@@ -8,7 +8,7 @@ KAFKA_BROKER = "localhost:9092"
 TOPIC = "airport-stream"
 
 # MongoDB Config
-MONGO_URI = "mongodb+srv://karanmakol1:DaenerysDrag@cluster0.zjqxxsb.mongodb.net/"   
+MONGO_URI = ""   
 DB_NAME = "airport_ops"
 
 # Connect to MongoDB
@@ -61,3 +61,4 @@ finally:
     consumer.close()
     mongo_client.close()
     print("✅ Kafka and MongoDB connections closed.")
+

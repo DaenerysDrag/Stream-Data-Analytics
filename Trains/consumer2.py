@@ -9,7 +9,7 @@ INPUT_TOPIC = "train-stream"
 OUTPUT_TOPIC = "train-clean"
 
 # MongoDB Config
-MONGO_URI = "mongodb+srv://gauravverma0810:gaurav@cluster0.vx6kt.mongodb.net/"
+MONGO_URI = ""
 DB_NAME = "train_ops"
 
 # MongoDB Connection
@@ -78,3 +78,4 @@ finally:
     producer.close()
     mongo_client.close()
     print("✅ Connections closed.")
+

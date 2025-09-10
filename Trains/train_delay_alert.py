@@ -8,7 +8,7 @@ KAFKA_BROKER = "localhost:9092"
 INPUT_TOPIC = "train-clean"
 
 # MongoDB Config
-MONGO_URI = "mongodb+srv://gauravverma0810:gaurav@cluster0.vx6kt.mongodb.net/"
+MONGO_URI = ""
 DB_NAME = "train_ops"   # ✅ same DB as consumer
 
 # MongoDB Connection
@@ -64,3 +64,4 @@ finally:
     consumer.close()
     mongo_client.close()
     print("✅ Kafka and MongoDB connections closed.")
+

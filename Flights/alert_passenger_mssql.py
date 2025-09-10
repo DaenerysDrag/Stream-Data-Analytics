@@ -9,7 +9,7 @@ KAFKA_BROKER = "localhost:9092"
 INPUT_TOPIC = "airport-clean"
 
 # SQL Server Config
-SERVER = "DAENERYS"       # Update if needed
+SERVER = ""       # Update if needed
 DATABASE = "airport_ops"
 DRIVER = "ODBC Driver 18 for SQL Server"
 
@@ -141,3 +141,4 @@ finally:
     cursor.close()
     conn.close()
     print("✅ Kafka and SQL Server connections closed.")
+

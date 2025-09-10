@@ -8,7 +8,7 @@ KAFKA_BROKER = "localhost:9092"
 INPUT_TOPIC = "blinkit-stream"
 OUTPUT_TOPIC = "blinkit-clean"
 
-SERVER = "DAENERYS"  # replace with your SQL Server
+SERVER = ""  # replace with your SQL Server
 DATABASE = "blinkit_ops"
 DRIVER = "ODBC Driver 18 for SQL Server"
 
@@ -191,3 +191,4 @@ finally:
     cursor.close()
     conn.close()
     print("✅ Connections closed.")
+

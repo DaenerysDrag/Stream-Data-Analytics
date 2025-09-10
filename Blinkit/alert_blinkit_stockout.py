@@ -7,7 +7,7 @@ import pyodbc
 KAFKA_BROKER = "localhost:9092"
 INPUT_TOPIC = "blinkit-clean"
 
-SERVER = "DAENERYS"  # change to your SQL Server
+SERVER = ""  # change to your SQL Server
 DATABASE = "blinkit_ops"
 DRIVER = "ODBC Driver 18 for SQL Server"
 
@@ -94,3 +94,4 @@ finally:
     cursor.close()
     conn.close()
     print("✅ Kafka and SQL connections closed.")
+

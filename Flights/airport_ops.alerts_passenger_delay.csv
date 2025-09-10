@@ -1,0 +1,4 @@
+_id,alert_type,flight_id,passenger_id,boarding_pass,time_to_departure_min,message
+68bb1c821b1e1a1f8e5938a8,boarding_warning,FL1410,PAX1033,false,36.76,"Passenger PAX1033 has NOT claimed boarding pass, and gate closes in 36.76 mins"
+68bb1cea1b1e1a1f8e5938a9,boarding_warning,FL1410,PAX1241,true,35.02,"Passenger PAX1241 has boarding pass, but gate closes in 35.02 mins"
+68bb1d571b1e1a1f8e5938aa,boarding_warning,FL1409,PAX1458,false,3.2,"Passenger PAX1458 has NOT claimed boarding pass, and gate closes in 3.2 mins"

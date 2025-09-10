@@ -8,7 +8,7 @@ KAFKA_BROKER = "localhost:9092"
 INPUT_TOPIC = "airport-stream"
 OUTPUT_TOPIC = "airport-clean"
 
-SERVER = "DAENERYS"  # SQL Server name
+SERVER = ""  # SQL Server name
 DATABASE = "airport_ops"
 DRIVER = "ODBC Driver 18 for SQL Server"
 
@@ -193,3 +193,4 @@ finally:
     cursor.close()
     conn.close()
     print("✅ Connections closed.")
+

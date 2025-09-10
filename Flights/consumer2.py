@@ -9,7 +9,7 @@ INPUT_TOPIC = "airport-stream"
 OUTPUT_TOPIC = "airport-clean"
 
 # MongoDB Config
-MONGO_URI = "mongodb+srv://karanmakol1:DaenerysDrag@cluster0.zjqxxsb.mongodb.net/"
+MONGO_URI = ""
 DB_NAME = "airport_ops"
 
 # MongoDB Connection
@@ -78,3 +78,4 @@ finally:
     producer.close()
     mongo_client.close()
     print("✅ Connections closed.")
+

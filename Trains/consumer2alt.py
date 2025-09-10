@@ -10,7 +10,7 @@ INPUT_TOPIC = "train-clean"
 OUTPUT_TOPIC = "train-aggregate-clean"
 
 # MongoDB Config
-MONGO_URI = "mongodb+srv://gauravverma0810:gaurav@cluster0.vx6kt.mongodb.net/"
+MONGO_URI = ""
 DB_NAME = "train_ops"
 
 # MongoDB Connection
@@ -129,3 +129,4 @@ t3.start()
 t1.join()
 t2.join()
 t3.join()
+

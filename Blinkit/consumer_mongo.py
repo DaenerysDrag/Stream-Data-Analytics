@@ -8,7 +8,7 @@ KAFKA_BROKER = "localhost:9092"
 INPUT_TOPIC = "blinkit-stream"
 OUTPUT_TOPIC = "blinkit-clean"
 
-MONGO_URI = "mongodb+srv://gauravverma0810:gaurav@cluster0.vx6kt.mongodb.net/"
+MONGO_URI = ""
 DB_NAME = "blinkit_ops"
 
 # ------------------ CONNECT TO MONGO ------------------
@@ -125,3 +125,4 @@ finally:
     producer.close()
     mongo_client.close()
     print("✅ Kafka and MongoDB connections closed.")
+

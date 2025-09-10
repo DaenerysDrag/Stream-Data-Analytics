@@ -8,7 +8,7 @@ KAFKA_BROKER = "localhost:9092"
 INPUT_TOPIC = "airport-clean"     # produced by DB-loader
 ALERT_TOPIC = "airport-alerts"    # optional, for alert downstream
 
-SERVER = "DAENERYS"
+SERVER = ""
 DATABASE = "airport_ops"
 DRIVER = "ODBC Driver 18 for SQL Server"
 
@@ -114,3 +114,4 @@ finally:
     cursor.close()
     conn.close()
     print("✅ Connections closed.")
+
